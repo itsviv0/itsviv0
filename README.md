@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding, photography, breaking into things.
 - 🌱 I’m currently learning a lot in home....
 - 💞️ I’m looking to collaborate on anything productive......
-- 📫 How to reach me -- twitter @SindagiVivek
+- 📫 How to reach me -- twitter @SindagiVivek -- instagram @viveksindagi
+- 📷 Check out my photography work https://www.instagram.com/vantaside.pixel/
 
 <!---
 itsviv0/itsviv0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
