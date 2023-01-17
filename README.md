@@ -4,7 +4,7 @@
 <h3>Aspiring Information Science student with a passion for using technology to solve problems and make a positive impact. Actively seeking opportunities to apply my skills and gain experience in the industry 📈 .</h3>
 <h3>Always up for a challenge 💪 and keen to push the limits of design to produce something fresh. I'm constantly looking 👀 for new possibilities to develop my abilities and produce things that have purpose.</h3>
 <br>
-<img src="https://media4.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76111ffa924a5b740293776dea25d631558522e6252d&rid=giphy.gif&ct=g" align="right" width="350" >
+<img src="https://media4.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76111ffa924a5b740293776dea25d631558522e6252d&rid=giphy.gif&ct=g" align="right" width="375" >
 <h4>👀 I’m interested in coding, photography, breaking into things.</h4>
 <h4>🌱 I’m currently into WebDev, Graphic Designing and ....</h4>
 <h4>💞️ I’m looking to collaborate on anything productive......</h4>
