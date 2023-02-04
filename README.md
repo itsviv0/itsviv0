@@ -6,7 +6,7 @@
 <br>
 <img src="https://media4.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76111ffa924a5b740293776dea25d631558522e6252d&rid=giphy.gif&ct=g" align="right" width="375" >
 <h4>👀 I’m interested in coding, photography, breaking into things.</h4>
-<h4>🌱 I’m currently into WebDev, Graphic Designing and ....</h4>
+<h4>🌱 I’m currently into WebDev, Graphic Designing.</h4>
 <h4>💞️ I’m looking to collaborate on anything productive......</h4>
 <h4>📬️ You can get in touch with <a href="mailto:vivekganeshs12@gmail.com">me here!!</a> </h4>
 <br>
