@@ -44,16 +44,38 @@
 <br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsviv0&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsviv0&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsviv0&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+    <a href="https://github.com/itsviv0/github-readme-streak-stats">
+        <img alt="itsviv0's streak" src="https://github-readme-stats.vercel.app/api?username=itsviv0&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
+    </a>
+    <br>
+    <a href="">
+        <img alt="itsviv0's commits" src = "https://github-readme-streak-stats.herokuapp.com/?user=itsviv0&theme=default&hide_border=false"/>    
+    </a>
+    <br>
+    <a href="">
+        <img alt="itsviv0's languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itsviv0&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>    
+    </a>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=itsviv0&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <br>
 
 ## 📸 Also check out my Photography page:
 
-[![VantaSide.Pixel](https://drive.google.com/file/d/1mVw0UPosatcU0c3A8rX1SLAXDLcRl7bs/view?usp=drivesdk)](https://www.instagram.com/vantaside.pixel/)
+<p align = "center">
+    <a href = "">
+        <img alt = "vantaside_logo" src = ""
+    </a>
+</p>
 
+<br>    
+    
 ## 💰 You can help me by Donating
- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vivekgs) 
+    
+<p align = "center">
+    <a href = "https://paypal.me/vivekgs">
+        <img alt = "paypal" src = "https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+    </a>
+</p>
