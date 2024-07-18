@@ -1,20 +1,18 @@
 <br>
 <h1 align = "center">  Hi 👋  I’m Vivek G Sindagi </h1>
 
-<h3>Aspiring Information Science student with a passion for using technology to solve problems and make a positive impact. Actively seeking opportunities to apply my skills and gain experience in the industry 📈 .</h3>
-<h3>Always up for a challenge 💪 and keen to push the limits of design to produce something fresh. I'm constantly looking 👀 for new possibilities to develop my abilities and produce things that have purpose.</h3>
+<h3>Aspiring Information Science student with a passion for using technology to solve problems and make a positive impact. Actively seeking opportunities to apply my skills and gain experience in the industry.</h3>
+<h3>Always up for a challenge and keen to push the limits of design to produce something fresh. I'm constantly looking for new possibilities to develop my abilities and produce things that have purpose.</h3>
 <br>
 <img src="https://media4.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76111ffa924a5b740293776dea25d631558522e6252d&rid=giphy.gif&ct=g" align="right" width="375" >
-<h4>👀 I’m interested in coding, photography, breaking into things.</h4>
+<h4>👀 I’m interested in coding and photography.</h4>
 <h4>🌱 I’m currently into WebDev, Graphic Designing.</h4>
-<h4>💞️ I’m looking to collaborate on anything productive......</h4>
 <h4>📬️ You can get in touch with <a href="mailto:vivekengine23@gmail.com">me here!!</a> </h4>
 <br>
 
 ## 🌐 Social Handles:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viveksindagi) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-g-sindagi) 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/itsviv0) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@SindagiVivek) 
 
 <br>
@@ -32,7 +30,6 @@
 [![npm](https://img.shields.io/badge/NPM-FFFFFF?style=for-the-badge&logo=npm&logoColor=CC3534)](https://www.npmjs.com/)
 [![Linux](https://img.shields.io/badge/Linux-ffcc33?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=#003B57)](https://www.sqlite.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-1A73E8?style=for-the-badge&logo=firebase&logoColor=FFA000)](https://firebase.google.com/)
 
 
