@@ -58,10 +58,12 @@
     </a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=itsviv0&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<div align="center">
 
+[![Vivek G Sindagi profile views](https://u8views.com/api/v1/github/profiles/93273111/views/day-week-month-total-count.svg)](https://u8views.com/github/itsviv0)
 
-<br>
+</div>
+
 
 ## ✨ My Portfoilo:
 
