@@ -10,19 +10,13 @@
 
 ## 🌐 Social Handles:
 
-<div align="center">
-    
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viveksindagi) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-g-sindagi) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@SindagiVivek) 
 
-</div>
-
 <br>
 
 ## 💻 Coding Languages, Libraries and Frameworks:
-
-<div align="center">
     
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
@@ -38,11 +32,10 @@
 [![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=#003B57)](https://www.sqlite.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-1A73E8?style=for-the-badge&logo=firebase&logoColor=FFA000)](https://firebase.google.com/)
 
-</div>
-
 <br>
 
 ## Graphic Designing:
+
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/in/products/illustrator.html)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](www.adobe.com/in/products/photoshop/landpa.html)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
@@ -65,7 +58,6 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=itsviv0&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-![Visitor Count](https://profile-counter.glitch.me/itsviv0/count.svg)
 
 
 <br>
