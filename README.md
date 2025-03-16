@@ -68,7 +68,7 @@
 ## ✨ My Portfoilo:
 
 <p align = "center">
-    <a href = "https://www.itsviv0.live">
+    <a href = "https://www.vivs.live">
         <img alt = "vivek_logo" src = "https://firebasestorage.googleapis.com/v0/b/itsviv0.appspot.com/o/lightlogo.png?alt=media&token=c55a2fbd-0ffc-4088-ba98-ed9e4e1a7c9a" width = "150px">
     </a>
 </p>
