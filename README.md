@@ -2,7 +2,7 @@
 <h1 align = "center">  Hi 👋  I’m Vivek G Sindagi </h1>
 <img src="https://media4.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76111ffa924a5b740293776dea25d631558522e6252d&rid=giphy.gif&ct=g" align="right" width="375" >
 
-<h3>Aspiring Information Science student with a passion for technology and building projects using latest tools.</h3>
+<h3>Interning at Rakuten Symphony. Working on real world problems to save developer time and improve stakeholder experience. Part of Keploy fellowship 2025!</h3>
 
 <h4>🌱 I’m currently into WebDev, Graphic Designing.</h4>
 <h4>📬️ You can get in touch with <a href="mailto:vivekengine23@gmail.com">me here!!</a> </h4>
@@ -18,7 +18,6 @@
 
 ## 💻 Coding Languages, Libraries and Frameworks:
     
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS#CSS_3)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
